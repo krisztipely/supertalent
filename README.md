@@ -29,4 +29,4 @@ Open your web browser and visit http://127.0.0.1:5000/ to interact with the appl
   
 ## License
 
-MIT 2024, Krisztina-Ronkainen Lakner
+[MIT](https://github.com/krisztipely/supertalent/blob/master/LICENSE) 2024, Krisztina-Ronkainen Lakner
